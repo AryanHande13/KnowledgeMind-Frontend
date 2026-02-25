@@ -1,5 +1,9 @@
 # 🧠 KnowledgeMind - Frontend
 
+<img width="1919" height="986" alt="Screenshot 2026-02-25 190031" src="https://github.com/user-attachments/assets/3e97bafa-f476-49f0-b065-ad22ee6ac988" />
+<img width="1919" height="986" alt="Screenshot 2026-02-25 190058" src="https://github.com/user-attachments/assets/5f3f51a8-6497-495e-a649-12c5de4e0593" />
+<img width="1919" height="980" alt="Screenshot 2026-02-25 190202" src="https://github.com/user-attachments/assets/80e58b55-c606-4895-9d11-b918e9676579" />
+
 A Knowledge Sharing Platform frontend built with **React** (Vite) featuring AI-assisted writing tools.
 
 ## 📋 Table of Contents
